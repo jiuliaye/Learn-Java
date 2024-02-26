@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Find_Number_In_2D_Array",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Find_Number_In_2D_Array::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Find_Number_In_2D_Array-Debug-962ee9793e99e692511c.json",
+					"name" : "Find_Number_In_2D_Array",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/jiuliaye/Documents/GitHub/Learn-Java/src/01_C/47_\u5b9e\u6218\uff1a\u4e8c\u7ef4\u6570\u7ec4\u4e2d\u7684\u67e5\u627e/Find Number In 2D Array/cmake-build-debug",
+		"source" : "/Users/jiuliaye/Documents/GitHub/Learn-Java/src/01_C/47_\u5b9e\u6218\uff1a\u4e8c\u7ef4\u6570\u7ec4\u4e2d\u7684\u67e5\u627e/Find Number In 2D Array"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}

@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Multiplication_Table",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Multiplication_Table::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Multiplication_Table-Debug-5d2356671063780f24d9.json",
+					"name" : "Multiplication_Table",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/jiuliaye/Documents/GitHub/Learn-Java/src/01_C/21_\u5b9e\u6218\uff1a\u6253\u5370\u4e5d\u4e5d\u4e58\u6cd5\u8868/Multiplication Table/cmake-build-debug",
+		"source" : "/Users/jiuliaye/Documents/GitHub/Learn-Java/src/01_C/21_\u5b9e\u6218\uff1a\u6253\u5370\u4e5d\u4e5d\u4e58\u6cd5\u8868/Multiplication Table"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}

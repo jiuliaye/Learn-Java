@@ -1,0 +1,1 @@
+/opt/homebrew/Cellar/gcc/13.2.0/bin/gcc-13 -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/Fibonacci_Sequence.dir/main.c.o -o Fibonacci_Sequence 

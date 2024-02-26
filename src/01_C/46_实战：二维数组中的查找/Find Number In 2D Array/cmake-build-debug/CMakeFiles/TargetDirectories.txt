@@ -1,0 +1,3 @@
+/Users/jiuliaye/Documents/GitHub/Learn-Java/src/01_C/47_实战：二维数组中的查找/Find Number In 2D Array/cmake-build-debug/CMakeFiles/Find_Number_In_2D_Array.dir
+/Users/jiuliaye/Documents/GitHub/Learn-Java/src/01_C/47_实战：二维数组中的查找/Find Number In 2D Array/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/jiuliaye/Documents/GitHub/Learn-Java/src/01_C/47_实战：二维数组中的查找/Find Number In 2D Array/cmake-build-debug/CMakeFiles/rebuild_cache.dir

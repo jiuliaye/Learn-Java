@@ -1,0 +1,3 @@
+/Users/jiuliaye/Documents/GitHub/Learn-Java/src/01_C/03_C语言开发环境部署/HelloWorld/cmake-build-debug/CMakeFiles/HelloWorld.dir
+/Users/jiuliaye/Documents/GitHub/Learn-Java/src/01_C/03_C语言开发环境部署/HelloWorld/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/jiuliaye/Documents/GitHub/Learn-Java/src/01_C/03_C语言开发环境部署/HelloWorld/cmake-build-debug/CMakeFiles/rebuild_cache.dir

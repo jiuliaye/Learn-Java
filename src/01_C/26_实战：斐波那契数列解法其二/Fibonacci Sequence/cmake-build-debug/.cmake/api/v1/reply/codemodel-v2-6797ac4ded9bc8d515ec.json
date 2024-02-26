@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Fibonacci_Sequence",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Fibonacci_Sequence::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Fibonacci_Sequence-Debug-4b0da018b0f3c5c38711.json",
+					"name" : "Fibonacci_Sequence",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/jiuliaye/Documents/GitHub/Learn-Java/src/01_C/26_\u5b9e\u6218\uff1a\u6590\u6ce2\u90a3\u5951\u6570\u5217\u89e3\u6cd5\u5176\u4e8c/Fibonacci Sequence/cmake-build-debug",
+		"source" : "/Users/jiuliaye/Documents/GitHub/Learn-Java/src/01_C/26_\u5b9e\u6218\uff1a\u6590\u6ce2\u90a3\u5951\u6570\u5217\u89e3\u6cd5\u5176\u4e8c/Fibonacci Sequence"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}

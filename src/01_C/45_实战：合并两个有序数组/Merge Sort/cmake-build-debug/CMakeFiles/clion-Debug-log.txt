@@ -1,0 +1,4 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_C_COMPILER=/opt/homebrew/Cellar/gcc/13.2.0/bin/gcc-13 -DCMAKE_CXX_COMPILER=/opt/homebrew/Cellar/gcc/13.2.0/bin/g++-13 -S "/Users/jiuliaye/Documents/GitHub/Learn-Java/src/01_C/46_实战：合并两个有序数组/Merge Sort" -B "/Users/jiuliaye/Documents/GitHub/Learn-Java/src/01_C/46_实战：合并两个有序数组/Merge Sort/cmake-build-debug"
+-- Configuring done (0.1s)
+-- Generating done (0.0s)
+-- Build files have been written to: /Users/jiuliaye/Documents/GitHub/Learn-Java/src/01_C/46_实战：合并两个有序数组/Merge Sort/cmake-build-debug
