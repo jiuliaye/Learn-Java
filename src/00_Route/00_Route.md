@@ -12,33 +12,53 @@ https://www.bilibili.com/video/BV14K4y177Qk/?spm_id_from=333.337.search-card.all
 
 学完精华版之后，做几个项目，然后有时间就根据这个路线去查漏补缺，这个是面向企业级的。
 
+**就业三要素：**
+
+- 编程技能熟练及项目
+- 算法能力、竞赛奖项及四大件基础
+- 实习段数及具体参与业务
+
 # 速成版
 
 ## 入门阶段
 
 如果时间充裕的话，推荐先学习C语言和数据结构篇，算是很好的预备知识
 
-- C语言程序设计（CLion 2022最新版）
-- 数据结构与算法
-- JavaSE（基础）：基础语法、面向对象、官方框架、高级特性
-- JavaSE 9-17 新特性
-- JavaSEGUI、Java设计模式
+- C语言程序设计（CLion 2022最新版）63P
+- 数据结构与算法 88P
+- JavaSE（基础）：基础语法、面向对象、官方框架、高级特性 139P
+- JavaSE 9-17 新特性 19P
+- JavaSEGUI、Java设计模式 22P + 31P
 
 ## 主线阶段
 
-- JavaWeb：MySQL、数据库相关框架、JavaWeb开发
-- JavaSSM（Spring、SpringMVC、MyBatis）
-- JavaSpringBoot：SpringSecurity、SpringBoot、Git、Redis数据库、Linux操作系统入门
-- SpringCloud：SpringCloud组件、SpringCloud Alibaba组件、其他中间件（ShardingJDBC、RabbitMQ消息队列）、数据库进阶（MySQL、Redis集群方案）、登录校验（OAuth2.0、单点登录）
-- Docker
+- JavaWeb：MySQL、数据库相关框架、JavaWeb开发 100P
+- JavaSSM（Spring、SpringMVC）30P+17P
+- Java SpringSecurity、SpringBoot、Git、Redis数据库、Linux操作系统入门 25P+42P+10P+11P+10P
+- SpringCloud 68P
+- SpringBoot 3 + Vue 3 19P
+- Docker 21P
 
 ## 面向面试
 
-- Java JVM
-- Java Concurrent
-- Java NIO
+- Java JVM 24P
+- Java Concurrent 38P
+- Java NIO 30P
 - 刷题
 - 项目
+
+## 第一阶段时间安排
+
+- 2025.4.1学完
+  - 144 days / 36组
+  - 2+1+1 模式
+    - 2: 学 11P，遇到有作业的就记下来跳过
+    - 1: 做作业
+    - 1: 复习
+
+- 2025.6.1整理完
+
+- 2025.7.1暑假找实习
 
 # 究极查漏补缺版
 
